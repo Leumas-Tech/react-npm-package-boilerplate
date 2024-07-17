@@ -18,7 +18,7 @@ Welcome to the React NPM Boilerplate project! This repository serves as a starti
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/react-npm-boilerplate.git
+git clone https://github.com/Leumas-Tech/react-npm-package-boilerplate
 cd react-npm-boilerplate
 ```
 
